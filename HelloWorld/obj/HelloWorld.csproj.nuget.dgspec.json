@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GAMEDEVPJS\\POLYVERSE\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Usher\\Documents\\Projects\\POLYVERSE\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "D:\\GAMEDEVPJS\\POLYVERSE\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Usher\\Documents\\Projects\\POLYVERSE\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GAMEDEVPJS\\POLYVERSE\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Usher\\Documents\\Projects\\POLYVERSE\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "D:\\GAMEDEVPJS\\POLYVERSE\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\Usher\\Documents\\Projects\\POLYVERSE\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Usher\\.nuget\\packages\\",
-        "outputPath": "D:\\GAMEDEVPJS\\POLYVERSE\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Usher\\Documents\\Projects\\POLYVERSE\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usher\\AppData\\Roaming\\NuGet\\NuGet.Config",
