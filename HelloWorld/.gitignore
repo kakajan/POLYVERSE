@@ -1,0 +1,68 @@
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build directories
+bin/
+obj/
+artifacts/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+.nuget/
+
+# Publish outputs
+publish/
+*.PublishProfiles
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Visual Studio profiler
+*.psess
+*.vsp
+
+# Symbols
+*.pdb
+*.mdb
+
+# Runtime files
+*.dll
+*.exe
+*.log
+
+# Rider and Resharper caches
+*.DotSettings.user
+_ReSharper*/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# User secrets
+secrets.json
+secrets.*.json
+
+# JetBrains Rider cache
+.idea/
+
+# Ignore generated NuGet package folders
+**/packages/*
+
+# Ignore VS Test explorer cache
+.vs/TestExplorer/
