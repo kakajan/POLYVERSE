@@ -28,3 +28,5 @@ string friendsMessage = $"My friends are {friendOneName} and {friendTwoName}.";
 Console.WriteLine(friendsMessage);
 friendsMessage = friendsMessage.Replace("Arsam", "Asher");
 Console.WriteLine(friendsMessage);
+
+Console.WriteLine(friendsMessage.Length);
