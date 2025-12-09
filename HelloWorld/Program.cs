@@ -27,6 +27,17 @@ friendOneName = friendOneName.Trim();
 string friendsMessage = $"My friends are {friendOneName} and {friendTwoName}.";
 Console.WriteLine(friendsMessage);
 friendsMessage = friendsMessage.Replace("Arsam", "Asher");
-Console.WriteLine(friendsMessage);
 
-Console.WriteLine(friendsMessage.Length);
+Console.WriteLine(friendsMessage);
+bool containsAsher = friendsMessage.Contains("Asher");
+Console.WriteLine(containsAsher);
+
+int deafaultBulletsCount = 2100000000;
+int foundBulletsCount = 2100000000;
+// int totalBullets = checked(deafaultBulletsCount + foundBulletsCount);
+int totalBullets = deafaultBulletsCount + foundBulletsCount;
+Console.WriteLine(totalBullets);
+
+double a = 12.5;
+float b = 5.02f;
+Console.WriteLine(a / b);
